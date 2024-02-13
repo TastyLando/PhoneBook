@@ -1,0 +1,16 @@
+C:\Users\Yasin\source\repos\phonebook\phonebook\bin\Debug\net8.0-windows\phonebook.exe
+C:\Users\Yasin\source\repos\phonebook\phonebook\bin\Debug\net8.0-windows\phonebook.deps.json
+C:\Users\Yasin\source\repos\phonebook\phonebook\bin\Debug\net8.0-windows\phonebook.runtimeconfig.json
+C:\Users\Yasin\source\repos\phonebook\phonebook\bin\Debug\net8.0-windows\phonebook.dll
+C:\Users\Yasin\source\repos\phonebook\phonebook\bin\Debug\net8.0-windows\phonebook.pdb
+C:\Users\Yasin\source\repos\phonebook\phonebook\obj\Debug\net8.0-windows\phonebook.Form1.resources
+C:\Users\Yasin\source\repos\phonebook\phonebook\obj\Debug\net8.0-windows\phonebook.csproj.GenerateResource.cache
+C:\Users\Yasin\source\repos\phonebook\phonebook\obj\Debug\net8.0-windows\phonebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\source\repos\phonebook\phonebook\obj\Debug\net8.0-windows\phonebook.AssemblyInfoInputs.cache
+C:\Users\Yasin\source\repos\phonebook\phonebook\obj\Debug\net8.0-windows\phonebook.AssemblyInfo.cs
+C:\Users\Yasin\source\repos\phonebook\phonebook\obj\Debug\net8.0-windows\phonebook.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\phonebook\phonebook\obj\Debug\net8.0-windows\phonebook.dll
+C:\Users\Yasin\source\repos\phonebook\phonebook\obj\Debug\net8.0-windows\refint\phonebook.dll
+C:\Users\Yasin\source\repos\phonebook\phonebook\obj\Debug\net8.0-windows\phonebook.pdb
+C:\Users\Yasin\source\repos\phonebook\phonebook\obj\Debug\net8.0-windows\phonebook.genruntimeconfig.cache
+C:\Users\Yasin\source\repos\phonebook\phonebook\obj\Debug\net8.0-windows\ref\phonebook.dll
